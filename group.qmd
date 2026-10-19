@@ -14,6 +14,8 @@ Education:
 
 Honors and Awards:
 
+- CAREER Award, National Science Foundation 2026
+- Outstanding Service Award, IEEE Computer Society Annual Symposium on VLSI 2025
 - Charles H. Fetter University Endowed Fellowship 2023
 - IEEE-PES Outstanding Engineer Award 2019
 - Winner of Women of Innovation, Connecticut Technology Council 2019
@@ -27,10 +29,10 @@ Yan Li (S'19) received her first Ph.D. degree from Tianjin University, Tianjin, 
 
 ## Ph.D. Students
 
-Shuyang Ma\
+Yuqi Jiang\
 Jianing Chen\
 Hanyang He\
-Yuqi Jiang\
+Shuyang Ma\
 Joseph Maxwell Lange\
 Yuchen Luo
 
@@ -39,9 +41,9 @@ Yuchen Luo
 
 ## Undergraduate Researchers
 
-Joseph William Brogan\
-Shaivi Tomar\
-Gannon Leo Wanders
+Anant Ruminkumar Patel\
+Taemin Kang\
+Ananya Vyas 
 
 ## Military-Affiliated Researcher
 
@@ -52,6 +54,8 @@ Carter Househnecht -- 2nd lieutenant, Learning Assistant, 2020-2021
 Xinyuan Jiang -- Ph.D., 2020-2025, University of Texas at Arlington\
 Apoorva Nandakumar -- Ph.D., 2019-2024, joined Tesla Inc.\
 Andrew Smith -- Master, 2021-2024, joined Naval Surface Warfare Center\
+Joseph William Brogan -- Undergraduate researcher, 2024-2025\
+Shaivi Tomar -- Undergraduate researcher, 2023-2024\
 Marian Hanashiro Rempola -- Undergraduate researcher, 2023-2024\
 Rohin Kalra -- Undergraduate researcher, 2023-2024\
 Jaden Peacock -- Undergraduate researcher, 2024\

@@ -4,7 +4,7 @@ title: "Join us!"
 
 ## Ph.D. Opportunities
 
-We are recruiting Ph.D. students who are self-motivated and have an interest in exploring the topics of quantum computing, machine learning, stability and security in the power system domain. Please feel free to reach out for more information.
+We are recruiting Ph.D. students who are self-motivated and have an interest in exploring the topics of **quantum computing**, **machine learning**, **stability and security** in the power system domain. Please feel free to reach out for more information.
 
 ## Contact
 

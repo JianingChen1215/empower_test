@@ -11,5 +11,11 @@
     "official_source": "https://www.eaton.com/us/en-us/company/research-and-development.html",
     "image_url": "https://www.eaton.com.cn/content/dam/eaton/global/logos/eaton-logo-small.png",
     "note": "Eaton corporate logo used for Eaton Research Labs. Downloaded from Eaton's official China domain; the US site references the same asset path."
+  },
+  "arc": {
+    "file": "arc-logo.svg",
+    "official_source": "https://www.arc.gov/",
+    "image_url": "https://www.arc.gov/wp-content/themes/arc/images/arc-logo.svg",
+    "checked_on": "2026-10-19"
   }
 }

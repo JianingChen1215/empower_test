@@ -4,7 +4,7 @@ title: "Research"
 
 Our research connects quantum algorithms, data-driven models, and secure communications with the structure and operating needs of modern power systems.
 
-## Quantum Computing for Power Systems
+## **Highlight 1: Quantum Computing for Power Systems**
 
 ### Variational Algorithms: Optimal PMU Placement
 
@@ -32,6 +32,7 @@ Numerical microgrid examples demonstrate control performance and improved partia
 
 ::::
 
+<!--
 ### Toward Fault-Tolerant Quantum Dynamic Simulation
 
 :::: research-item
@@ -44,8 +45,9 @@ Differential embedding, polynomial reparameterization, and center-shifted Carlem
 The framework tracks nonlinear trajectories on 10-, 39-, and 57-bus benchmarks. Validation is numerical, including operator-level simulation on classical computers; computational benefits on future fault-tolerant hardware remain prospective.
 
 ::::
+-->
 
-## Machine Learning and AI for Power Systems
+## **Highlight 2: Machine Learning and AI for Power Systems**
 
 ### Modular Koopman Models for Changing Grid Topologies
 
@@ -78,7 +80,7 @@ Simulations show faster frequency stabilization than conventional droop control.
 :::: research-item
 Geometrically constrained kernel ridge regression learns nonlinear dynamics while respecting the underlying manifold structure estimated from data. A geometry-preserving time integrator combines motion along the tangent space with a normal correction, helping predicted trajectories remain close to the manifold. This offers a foundation for learning constrained dynamics, including those arising in power-system models.
 
-::: research-visual
+::: {.research-visual .research-visual-manifold}
 [![Geometry-preserving evolution on a manifold.](assets/research/ai-manifold.png){fig-alt="Manifold diagram decomposing a state update into a tangent increment and a normal correction to approximate evolution along the manifold."}](assets/research/ai-manifold.png){target="_blank"}
 :::
 
@@ -86,14 +88,14 @@ Tests on cavity flow, Kuramoto-Sivashinsky waves, and reaction-diffusion dynamic
 
 ::::
 
-## Cyber-Physical Security for Power Systems
+## **Highlight 3: Cyber-Physical Security for Power Systems**
 
 ### Quantum Key Distribution for SDN Communications
 
 :::: research-item
 The proposed architecture combines BB84 quantum key distribution with local key management to protect software-defined networking control communications. This offers a communication-security direction for digitally controlled grids that depend on trustworthy messages between controllers and network devices.
 
-::: research-visual
+::: {.research-visual .research-visual-qkd}
 [![QKD-enabled SDN architecture.](assets/research/cps-qkd.png){fig-alt="Architecture linking a BB84 quantum layer and local key management to the application, control, and data planes of SDN."}](assets/research/cps-qkd.png){target="_blank"}
 :::
 
