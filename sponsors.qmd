@@ -1,0 +1,37 @@
+---
+title: "Sponsors"
+---
+
+We gratefully acknowledge the support of ONR, NSF, NSWC, AWS, QuEra, IonQ, Air Force Research Laboratory, and Eaton Research Labs.
+
+## Office of Naval Research
+
+![](assets/9e938a8a-onr-logo-fb.png){width="180" fig-alt="Office of Naval Research"}
+
+## National Science Foundation
+
+![](assets/nsf-logo.png){width="180" fig-alt="National Science Foundation"}
+
+## Naval Surface Warfare Center
+
+![](assets/1cbaece1-naval_surface_warfare_center_20190813.png){width="180" fig-alt="Naval Surface Warfare Center"}
+
+## Amazon Web Services
+
+![](assets/cb054961-AWS-logo-2.jpg){width="180" fig-alt="Amazon Web Services"}
+
+## QuEra
+
+![](assets/79c38908-0x0.jpg){width="180" fig-alt="QuEra"}
+
+## IonQ
+
+![](assets/ionq-logo.png){width="180" fig-alt="IonQ"}
+
+## Air Force Research Laboratory
+
+[![](assets/afrl-logo.jpg){width="180" fig-alt="Air Force Research Laboratory (AFRL)"}](https://afresearchlab.com/)
+
+## Eaton Research Labs
+
+[![](assets/eaton-logo.png){width="180" fig-alt="Eaton Research Labs - Eaton logo"}](https://www.eaton.com/us/en-us/company/research-and-development.html)
